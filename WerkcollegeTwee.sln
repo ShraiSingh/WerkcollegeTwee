@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WerkcollegeTwee", "WerkcollegeTwee\WerkcollegeTwee.csproj", "{3E81B1C7-6D94-4708-B7D5-95B5C09484E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WerkcollegeTweeLib", "WerkcollegeTweeLib\WerkcollegeTweeLib.csproj", "{BB5E4157-07A6-41FA-AC4F-F197814CE4CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E81B1C7-6D94-4708-B7D5-95B5C09484E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E81B1C7-6D94-4708-B7D5-95B5C09484E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E81B1C7-6D94-4708-B7D5-95B5C09484E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E81B1C7-6D94-4708-B7D5-95B5C09484E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB5E4157-07A6-41FA-AC4F-F197814CE4CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB5E4157-07A6-41FA-AC4F-F197814CE4CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB5E4157-07A6-41FA-AC4F-F197814CE4CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB5E4157-07A6-41FA-AC4F-F197814CE4CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A37C5F4F-BFC8-479B-981B-3B7A077F2583}
+	EndGlobalSection
+EndGlobal
